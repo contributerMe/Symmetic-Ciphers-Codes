@@ -1,0 +1,35 @@
+g++ prg1.cpp -o prg1
+./prg1 cryptography and network security
+GV2TXSKVETL2DERHDRIX0SVODWIGYVMX2
+
+g++ prg2.cpp -o prg2
+./prg2 cryptography and network security 
+for k1 = 4, k2 = 0 E1ST9PU17TYS37LI3LM9KP1 35MEC129S
+
+g++ prg3.cpp -o prg3
+./prg3 hello
+k = 4 L0L7V
+
+g++ prg4.cpp -o prg4
+./prg4 hello world
+
+g++ -o prg5 prg5.cpp
+./prg5 hello worlld
+
+g++ prg6.cpp -o prg6
+./prg6 hello
+
+g++ prg7.cpp -o prg7
+./prg7 hello
+
+g++ prg8.cpp -o prg8
+./prg8 hello
+
+g++ prg9.cpp -o prg9
+./prg9 hello
+hloel
+
+
+w
+g++ prg10.cpp -o prg10
+./prg10 Nimesh
